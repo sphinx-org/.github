@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Welcome to the official repository for development and deployment best practices, tech stack exploration, and Infrastructure as Code (IaaC) proof of concepts (POCs) by [Sphinx-org]. This documentation provides valuable insights for developers, system administrators, and DevOps engineers.
+Welcome to the archve for development and deployment best practices, tech stack exploration, and Infrastructure as Code (IaaC) proof of concepts (POCs). This documentation provides valuable insights for developers, system administrators, and DevOps engineers.
 
 ## 🔑 Key Topics
 
